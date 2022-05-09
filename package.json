@@ -1,0 +1,11 @@
+{
+  "name": "trip-planner",
+  "version": "1.0.0",
+  "description": "trip planner web app for backend course haaga-helia",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "author": "Shannon Schrauwen",
+  "license": "ISC"
+}
